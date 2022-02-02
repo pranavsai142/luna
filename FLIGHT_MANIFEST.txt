@@ -1,0 +1,20 @@
+# FLIGHT MANIFEST
+# Itinerary for journey specifying starting condition, ending condition, and conditions in between
+# EX: To take off from earth to LEO (100 km) of inclination 30 degrees
+TAKEOFFEARTH:100000,100000,30
+# EX: To transfer to earth orbit of 900 km apogee, 80 km perigee of inclination 12 degrees
+TRANSFEREARTH:900000,100000,12
+# EX: To transfer to low lunar orbit (100 km) with inclination 1 degree 
+TRANSFERMOON:100000,100000,1
+# EX: To land on moon at 3° 12' 43.2" S (-3.212 degrees) and 5° 12' 39.6" W (-5.211 degrees)
+LANDMOON:-3.212,-5.211
+# EX: To hop on moon to 6° 40' 20'' N (6.67222 degrees) and 5° 0' 0'' W (-5 degrees)
+HOPMOON:6.67222,-5
+# EX: To take off from moon to lunar parking orbit (5 km) with inclination 13 degrees
+TAKEOFFMOON:5000,5000,13
+# EX: To transfer to LEO (100 km) with inclination 13 degrees
+TRANSFEREARTH:100000,100000,13
+# EX: To land on earth near boca chica (25.9920° N, 97.1822° W)
+LANDEARTH:25.9920,97.1822
+# EX: To hop around boca chica
+HOPEARTH:25.80,98.12

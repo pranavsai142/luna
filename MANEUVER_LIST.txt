@@ -1,0 +1,4 @@
+# FLIGHT PROFILE
+# timedelta (days, seconds, microseconds  [1:109:0]),
+# heading (name or direction [ANTINORMAL, Y, 0-0.5-0.5, etc]),
+# throttle (percentage throttle and burn timee (seconds) [96])
