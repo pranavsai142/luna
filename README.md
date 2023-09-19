@@ -29,6 +29,7 @@ The Latitude and Longitude graph. This graph with earth's map background is what
 ![Screen Shot 2023-09-18 at 9 51 32 PM](https://github.com/pranavsai142/luna/assets/23176289/42aa9fb1-4699-4bc6-b0fc-2fd296eb5684)
 
 Height from earth's surface.
+
 ![Screen Shot 2023-09-18 at 9 52 19 PM](https://github.com/pranavsai142/luna/assets/23176289/1796c505-9e2c-42b2-829f-e62ce60d7987)
 
 The Moon's position in ECI coordinate space plotted through time. (The moon's gravity is considered)
